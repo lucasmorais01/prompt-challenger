@@ -7,8 +7,8 @@ Você é um especialista personal trainer e vai me ajudar a montar um treino ide
 {{biotipo}} = Ectomorfo
 {{periodização}} = 3 dias treino ABC
 {{tipo}} = Maquinário Exercícios feitos em máquinas, com foco em isolar grupos musculares
-{{imc}} = altura 170, peso 65
-
+{{imc}} = 
+{{sexo}} =
 
 # Regras
 
@@ -41,6 +41,9 @@ Regra 4: imc
 - altura 
 - peso
 
+Regra 5: sexo
+- masculino
+- feminino
 
 # Resultado esperado
  Com base nos valores informados na área de variáveis e com as guidelines, crie um treino ideal para a pessoa que corresponde a combinação desses 3 valores.
